@@ -358,9 +358,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Md Zubayer Patowari**  
-📧 Email: your.email@domain.com  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/zpatowari)  
-🐙 GitHub: [github.com/yourusername](https://github.com/patoawri)  
+📧 Email: zubayer@softoryze.com  
+💼 LinkedIn: [linkedin.com/in/zpatowari](https://linkedin.com/in/zpatowari)  
+🐙 GitHub: [github.com/patowari](https://github.com/patoawri)  
 
 ---
 
